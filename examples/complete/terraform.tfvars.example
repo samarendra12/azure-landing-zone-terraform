@@ -1,0 +1,10 @@
+azure_subscription_id = "00000000-0000-0000-0000-000000000000"
+resource_group_name   = "rg-enterprise-app-prod"
+azure_region          = "East US"
+vnet_name             = "vnet-enterprise-prod"
+vnet_address_space    = ["10.0.0.0/16"]
+admin_username        = "azureuser"
+admin_password        = "ComplexP@ssw0rd123!"
+sql_server_name       = "sqlserver-app-prod-12345"
+db_admin_username     = "sqladminuser"
+db_admin_password     = "ComplexSQLP@ssw0rd123!"
